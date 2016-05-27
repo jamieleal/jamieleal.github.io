@@ -1,19 +1,20 @@
-
+body {
+	text-align: left;
+	background-color: #AF70D4;
+	color: #70D5B0;
+}
 h1 {
 	text-align: center;
-	background: AF70D4;
-	color: #70D5B0;
 }
 
 h2 {
 	text-align: center;
-	background-color: AF70D4;
-	color: #70D5B0;
 	font-style: italic;
 }
-
-body {
-	text-align: left;
-	background-color: AF70D4;
-	color: #70D5B0;
+#splash {
+	background:url(../images/Heroimage.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	height:50vh;
+	padding:5em 0;
 }
