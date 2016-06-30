@@ -1,46 +1,30 @@
-
-header {
-    background-color: #FFED74;
-    border: 1px black solid;
-    padding: 20px;
+body {
+    text-align: left;
+    background-color: #FFF2F1;
+    color: #424242;
+    font-family: 'Poppins', sans-serif;
+}
+h1, h2, h3 {
+    font-family: 'La Belle Aurore', cursive;
+}
+h1 {
+    text-align: center; 
 }
 
-
-nav {
-    background-color: #E8C66A;
-    border: 1px black solid;
-    padding: 20px;
+h2 {
+    text-align: center;
+    font-style: italic;
 }
-
+a {
+    text-decoration: none;
+    color: #424242;
+    border-bottom: 1px;
+}
 
 #splash {
-    background-color: #FFC675;
-    border: 1px black solid;
-    padding: 20px;
+    background:url(../images/flowers.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    height:50vh;
+    padding:5em 0;
 }
-
-#about {
-    background-color: #E89C6C;
-    border: 1px black solid;
-    padding: 20px;
-}
-
-#practices {
-    background-color: #E89C6C;
-    border: 1px black solid;
-    padding: 20px;
-}
-
-#demo {
-    background-color: #FFC675;
-    border: 1px black solid;
-    padding: 20px;
-}
-
-footer {
-    background-color: #FF957E;
-    border: 1px black solid;
-    padding: 20px;
-}
-
-
